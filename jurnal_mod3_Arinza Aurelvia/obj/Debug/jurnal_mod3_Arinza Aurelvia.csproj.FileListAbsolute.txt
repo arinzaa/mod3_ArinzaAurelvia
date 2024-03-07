@@ -1,0 +1,10 @@
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\bin\Debug\jurnal_mod3_Arinza Aurelvia.exe.config
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\bin\Debug\jurnal_mod3_Arinza Aurelvia.exe
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\bin\Debug\jurnal_mod3_Arinza Aurelvia.pdb
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza Aurelvia.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza_Aurelvia.Form1.resources
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza_Aurelvia.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza Aurelvia.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza Aurelvia.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza Aurelvia.exe
+C:\Users\PRAKTIKAN\Documents\jurnal_mod3_Arinza Aurelvia\jurnal_mod3_Arinza Aurelvia\obj\Debug\jurnal_mod3_Arinza Aurelvia.pdb
